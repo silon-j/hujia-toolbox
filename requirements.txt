@@ -1,4 +1,9 @@
 PyQt5==5.15.4
 openpyxl==3.0.7
 pywin32==300
-python-docx=0.8.11
+python-docx==0.8.11
+
+# ex_email
+exchangelib==4.3.0
+psutil==5.8.0
+PyQtWebEngine==5.15.4
